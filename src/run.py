@@ -17,3 +17,6 @@ def run():
 
         if program_lang == 'cpp' or 'c++':
             os.system(f'g++ {program_main_file} -o {progarm_name}')
+
+        if program_lang == 'rs':
+            os.system(f'rustc {program_main_file}')
