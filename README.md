@@ -1,2 +1,2 @@
-# CPII (Compiile)
-This Python script just compiles things for you
+#Unimake
+The c program that runs things for you
